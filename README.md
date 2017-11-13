@@ -1,2 +1,2 @@
-# hiwi-dmrg-tum
-Projects as Student Research Assistant at DMRG, Technical University of Munich
+# Data Mining Research Group Projects
+Projects undertaken as Student Research Assistant (HiWi) at Data Mining Research Group at the Technical University of Munich between December 2015 and February 2016. 
